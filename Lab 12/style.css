@@ -1,0 +1,19 @@
+.bg-img1 {
+    background-color: #000;
+    background-size: cover;
+    background-image: url('https://picsum.photos/id/237/200/300');
+}
+.bg-img2 {
+    background-color: #000;
+    background-size: cover;
+    background-image: url('https://picsum.photos/seed/picsum/200/300');
+}
+.bg-img3 {
+    background-color: #000;
+    background-size: cover;
+    background-image: url('https://picsum.photos/200/300?grayscale');
+}
+.carousel-item {
+    display: block;
+    height: 600px;
+}
